@@ -1,4 +1,6 @@
-
 aoc1
 aoc1.hi
 aoc1.o
+.idea
+cmake-build-debug
+CMakeLists.txt
